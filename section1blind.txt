@@ -15,7 +15,7 @@ glimpse 一瞥
 conservative保守 
 
 gaze 凝视
-procreation 生育 
+procreation 生育
 
 cultivate 培育 
 
@@ -41,7 +41,7 @@ diligent 勤奋的
 
 backdrop
 
-expertise专业
+expertise专业 
 
 empirical
 
@@ -104,7 +104,7 @@ might  可能 权力
 
 preoccupation 抢先占领
 
-inhabit 居住 栖息 
+inhabit 居住 栖息
 
 inhabitant  居民
 
