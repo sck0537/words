@@ -107,11 +107,11 @@ inhabitant 居民
 
 dwelling 住所
 
-eliminate消除
+eliminate 消除
 
 preliminary 预备的 初步的
 
-immense广大的
+immense 广大的
 
 metric 米制的
 
@@ -126,7 +126,7 @@ allege断言
 
 allegation 说法 指控
 
-contend竞争 据理力争
+contend 竞争 据理力争
 
 inflation 通货膨胀
 
