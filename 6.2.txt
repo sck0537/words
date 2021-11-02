@@ -14,7 +14,6 @@ household 家庭
 
 imply 暗示 意指
 
-
 interact 交互
 
 intellectual 知识分子 有才智的
@@ -140,6 +139,114 @@ correlate  相关的
 counter 柜台 反抗
 
 deficit 亏损
+
+diverse 多样的
+
+faculty 系科
+
+graphic 图形 文字
+
+intense 强烈的
+
+internal 内部的
+
+investigate 调查
+
+lever 杠杆 撬动
+
+navigate  导航  
+
+predator  食肉动物
+
+privacy 隐私
+
+reject 拒绝 
+
+reluctant 勉强的
+
+reverse 反转
+
+scheme 计划 谋划
+
+trait 特征
+
+transfer  转移
+
+trigger 触发器 触发
+
+autonomy 自治权
+
+barely 仅仅的
+
+barrier   屏障
+
+celebrity 名人
+
+champion 冠军
+
+circulation 循环
+
+complain 抱怨
+
+confirm 证实
+
+congress 代表大会
+
+destructive 毁灭性的
+
+detect 检测 
+
+drill 训练
+
+drought 干旱
+
+epidemic 病毒性的 流行病的
+
+exaggerate 膨胀
+
+excessive 过度的
+
+hypothesis 假设
+
+impose 强加 征税
+
+inspire 激励
+
+legal 合法的
+
+mutiple 倍数
+
+narrative 叙述
+
+rival 对手
+
+snack 点心
+
+snail 蜗牛
+
+abuse 滥用 虐待
+
+acupuncture 针灸
+
+adverse 不利的
+
+alert 警戒
+
+assert 断言
+
+cherish 珍爱
+
+assumption 假定
+
+classic 古典的
+
+collapse 倒塌
+
+compel 强迫
+
+concentrate 浓缩
+
+conference 会议
 
 
 
